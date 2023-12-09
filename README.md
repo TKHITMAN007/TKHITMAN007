@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TKHITMAN007
-- 👀 I’m interested in WEB DEVOLOPMENT
-- 🌱 I’m currently doing my bachekors in CSE-AI at VIT AP
+- 👀 I’m interested in WEB DEVELOPMENT
+- 🌱 I’m currently doing my bachelor's in CSE-AI at VIT AP
 - 📫 How to reach me 
 EMAIL: tanayakrishna.jupalli@gmail.com
 
