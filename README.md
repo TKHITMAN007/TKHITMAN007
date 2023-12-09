@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TKHITMAN007
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently doing my bachelor's in CSE-AI at VIT AP
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently doing my masters's in Computer Science at University of Southern California
 - 📫 How to reach me 
 EMAIL: tanayakrishna.jupalli@gmail.com
 
